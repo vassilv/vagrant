@@ -1,0 +1,9 @@
+[user]
+        name = <user name> 
+        email = <user email>
+[push]
+        default = simple
+[merge]
+        tool = meld
+[diff]
+        tool = meld
